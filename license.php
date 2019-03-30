@@ -1,6 +1,6 @@
 <license>
 	<result value="OK" />
-	<username value="Free CCBoot" />
+	<username value="KrocoLatoz" />
 	<licenseemail value="krocolatoz@myself.com" />
 	<expiretime value="2999/12/31 23:59:59" />
 </license>
